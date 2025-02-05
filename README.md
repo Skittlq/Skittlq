@@ -28,7 +28,6 @@ Someone who likes to code, make art, and other stuff.
 ![Twitch](https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=Twitch)
 ![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X)
 
-📊 **GitHub Stats**
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Skittlq&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
